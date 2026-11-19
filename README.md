@@ -116,19 +116,18 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📦 Deployment on Vercel
+## 📦 1-Click Vercel Deployment
 
-1. Push your repository to GitHub:
-   ```bash
-   git add .
-   git commit -m "feat: complete DineFlow restaurant management SaaS"
-   git push origin main
-   ```
-2. Import project into Vercel:
-   - Go to [https://vercel.com/new](https://vercel.com/new)
-   - Select `DineFlow` from your GitHub repositories.
-   - Framework preset: `Next.js`
-   - Click **Deploy**!
+Deploy directly to your Vercel team account (`shubham-sadadiyas-projects`):
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSHUBHAMSADADIYA%2FDineFlow&project-name=dineflow)
+
+### Or Deploy from Vercel Web Console:
+1. Visit [https://vercel.com/shubham-sadadiyas-projects](https://vercel.com/shubham-sadadiyas-projects)
+2. Click **"Add New..."** ➔ **"Project"**
+3. Select `SHUBHAMSADADIYA/DineFlow`
+4. Keep default framework preset (`Next.js`)
+5. Click **Deploy**!
 
 ---
 
